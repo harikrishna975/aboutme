@@ -19,7 +19,7 @@ background:lightblue;
 
 .card{
 	cursor:pointer;
-	width:350px;
+	width:500px;
 	height: 500px;
 
 }
@@ -34,6 +34,7 @@ background:lightblue;
 
 .front img{
 	height: 100%;
+	width: 100%;
 	opacity: 1px;
 }
 
