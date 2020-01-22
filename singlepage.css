@@ -6,8 +6,7 @@
 }
  
 body{
-background:lightblue;
-
+background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);
 
 }
 .middle{
@@ -43,10 +42,9 @@ background:lightblue;
 
 }
 .back{
-	background: white;
+	background: linear-gradient(to right, #FFFFFF, #FFEFBA);
 	width:500px;
 	transform: perspective(500px) rotateY(180deg);
-
 }
 .back-content{
 	color:black;
